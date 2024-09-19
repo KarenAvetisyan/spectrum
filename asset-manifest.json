@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6226cc53.css",
-    "main.js": "/static/js/main.aff93c6e.js",
+    "main.css": "/static/css/main.c7867870.css",
+    "main.js": "/static/js/main.897838b5.js",
     "static/js/453.6303bd8c.chunk.js": "/static/js/453.6303bd8c.chunk.js",
     "static/media/KyivTypeSans-VarGX.ttf": "/static/media/KyivTypeSans-VarGX.3a4ae92efe6792cf057c.ttf",
     "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.a73db89c43e44ca8f5e0.ttf",
@@ -14,13 +14,15 @@
     "static/media/phone-frame.webp": "/static/media/phone-frame.c68126df1f5b7bf5748c.webp",
     "static/media/donut.webp": "/static/media/donut.35b2ef4d9026818ff737.webp",
     "static/media/python-logo.webp": "/static/media/python-logo.f7443a0f362c5698e621.webp",
+    "static/media/dev-ops-logo.webp": "/static/media/dev-ops-logo.6576462e7e48e46b13e9.webp",
+    "static/media/c-logo.webp": "/static/media/c-logo.4057bbdca3accc5948b0.webp",
     "index.html": "/index.html",
-    "main.6226cc53.css.map": "/static/css/main.6226cc53.css.map",
-    "main.aff93c6e.js.map": "/static/js/main.aff93c6e.js.map",
+    "main.c7867870.css.map": "/static/css/main.c7867870.css.map",
+    "main.897838b5.js.map": "/static/js/main.897838b5.js.map",
     "453.6303bd8c.chunk.js.map": "/static/js/453.6303bd8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6226cc53.css",
-    "static/js/main.aff93c6e.js"
+    "static/css/main.c7867870.css",
+    "static/js/main.897838b5.js"
   ]
 }

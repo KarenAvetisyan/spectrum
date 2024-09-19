@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6226cc53.css",
+    "main.js": "/static/js/main.aff93c6e.js",
+    "static/js/453.6303bd8c.chunk.js": "/static/js/453.6303bd8c.chunk.js",
+    "static/media/KyivTypeSans-VarGX.ttf": "/static/media/KyivTypeSans-VarGX.3a4ae92efe6792cf057c.ttf",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.a73db89c43e44ca8f5e0.ttf",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.45b4c2ae493bb481102f.ttf",
+    "static/media/Inter-Medium.otf": "/static/media/Inter-Medium.8386f9c82a1101e6a8d4.otf",
+    "static/media/roboto-condensed-semibold.ttf": "/static/media/roboto-condensed-semibold.f81371a75d39d531979d.ttf",
+    "static/media/curvy-bubble.webp": "/static/media/curvy-bubble.797529104ba1ba49d63d.webp",
+    "static/media/Icosahedron.webp": "/static/media/Icosahedron.3f096ff5f794aae2ac52.webp",
+    "static/media/logo.svg": "/static/media/logo.0c79d48c8c174c78e2c12678fa4dc13f.svg",
+    "static/media/phone-frame.webp": "/static/media/phone-frame.c68126df1f5b7bf5748c.webp",
+    "static/media/donut.webp": "/static/media/donut.35b2ef4d9026818ff737.webp",
+    "static/media/python-logo.webp": "/static/media/python-logo.f7443a0f362c5698e621.webp",
+    "index.html": "/index.html",
+    "main.6226cc53.css.map": "/static/css/main.6226cc53.css.map",
+    "main.aff93c6e.js.map": "/static/js/main.aff93c6e.js.map",
+    "453.6303bd8c.chunk.js.map": "/static/js/453.6303bd8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6226cc53.css",
+    "static/js/main.aff93c6e.js"
+  ]
+}
